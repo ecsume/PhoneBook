@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{72F7AFA1-C29A-497D-B024-29807EC25B80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{7B31C5B4-D380-4B2D-9ED3-FD289F8BD9E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consumer", "Consumer", "{0F6EDB69-B88B-4DEC-A692-1F21B09CCA83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{B6777F2B-BE47-47ED-BAA0-E0138208BCC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{501E4539-7D65-4DDC-AAE1-C72A67A6B9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactService.API", "Services\ContactService.API\ContactService.API.csproj", "{2ABCD326-CB1C-4350-8EEB-4FAC17FC50B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService.API", "Services\ReportService.API\ReportService.API.csproj", "{5D9CE8DF-6880-4959-99BF-4D4CE65BE73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ABCD326-CB1C-4350-8EEB-4FAC17FC50B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABCD326-CB1C-4350-8EEB-4FAC17FC50B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABCD326-CB1C-4350-8EEB-4FAC17FC50B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABCD326-CB1C-4350-8EEB-4FAC17FC50B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9CE8DF-6880-4959-99BF-4D4CE65BE73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9CE8DF-6880-4959-99BF-4D4CE65BE73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9CE8DF-6880-4959-99BF-4D4CE65BE73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9CE8DF-6880-4959-99BF-4D4CE65BE73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2ABCD326-CB1C-4350-8EEB-4FAC17FC50B4} = {72F7AFA1-C29A-497D-B024-29807EC25B80}
+		{5D9CE8DF-6880-4959-99BF-4D4CE65BE73E} = {72F7AFA1-C29A-497D-B024-29807EC25B80}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4DF661-A54A-4A76-993A-A9ABCF88A1CE}
+	EndGlobalSection
+EndGlobal
