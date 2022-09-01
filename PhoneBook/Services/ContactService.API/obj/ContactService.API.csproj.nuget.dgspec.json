@@ -4,14 +4,14 @@
     "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj": {
+    "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj",
-        "projectName": "ContactService.API",
-        "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj",
+        "projectUniqueName": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\bCemSume\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\obj\\",
+        "outputPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bCemSume\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,280 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ContactService.Data\\ContactService.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ContactService.Data\\ContactService.Data.csproj",
+        "projectName": "ContactService.Data",
+        "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ContactService.Data\\ContactService.Data.csproj",
+        "packagesPath": "C:\\Users\\bCemSume\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ContactService.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bCemSume\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ReportService.Data\\ReportService.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ReportService.Data\\ReportService.Data.csproj",
+        "projectName": "ReportService.Data",
+        "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ReportService.Data\\ReportService.Data.csproj",
+        "packagesPath": "C:\\Users\\bCemSume\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ReportService.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bCemSume\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Core\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj",
+        "projectName": "ContactService.API",
+        "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\ContactService.API.csproj",
+        "packagesPath": "C:\\Users\\bCemSume\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Services\\ContactService.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bCemSume\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ContactService.Data\\ContactService.Data.csproj": {
+                "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ContactService.Data\\ContactService.Data.csproj"
+              },
+              "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ReportService.Data\\ReportService.Data.csproj": {
+                "projectPath": "C:\\Users\\bCemSume\\Documents\\GitHub\\PhoneBook\\PhoneBook\\Data\\ReportService.Data\\ReportService.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

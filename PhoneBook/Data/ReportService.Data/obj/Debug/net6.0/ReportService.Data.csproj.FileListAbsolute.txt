@@ -1,0 +1,17 @@
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\bin\Debug\net6.0\ReportService.Data.deps.json
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\bin\Debug\net6.0\ReportService.Data.runtimeconfig.json
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\bin\Debug\net6.0\ReportService.Data.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\bin\Debug\net6.0\ReportService.Data.pdb
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.csproj.AssemblyReference.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.AssemblyInfoInputs.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.AssemblyInfo.cs
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.csproj.CoreCompileInputs.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.csproj.CopyComplete
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\refint\ReportService.Data.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.pdb
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ReportService.Data.genruntimeconfig.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ReportService.Data\obj\Debug\net6.0\ref\ReportService.Data.dll

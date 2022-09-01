@@ -1,0 +1,17 @@
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\bin\Debug\net6.0\ContactService.Data.deps.json
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\bin\Debug\net6.0\ContactService.Data.runtimeconfig.json
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\bin\Debug\net6.0\ContactService.Data.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\bin\Debug\net6.0\ContactService.Data.pdb
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.csproj.AssemblyReference.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.AssemblyInfoInputs.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.AssemblyInfo.cs
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.csproj.CoreCompileInputs.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.csproj.CopyComplete
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\refint\ContactService.Data.dll
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.pdb
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ContactService.Data.genruntimeconfig.cache
+C:\Users\bCemSume\Documents\GitHub\PhoneBook\PhoneBook\Data\ContactService.Data\obj\Debug\net6.0\ref\ContactService.Data.dll
